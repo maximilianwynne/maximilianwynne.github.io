@@ -1,3 +1,5 @@
 # maximilianwynne.github.io
 
-Hello. 
+The time is nigh. 
+
+Hello! Hello! 
